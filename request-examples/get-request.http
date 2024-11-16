@@ -1,0 +1,2 @@
+GET http://admin:admin@169.254.149.4:8111/app/rest/buildTypes/id:id
+Content-Type: application/json
